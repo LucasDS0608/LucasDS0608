@@ -4,8 +4,8 @@
 
 <div>
   <a href="https://github.com/LucasDS0608">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=LucasDS0608&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDS0608&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucasDS0608&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDS0608&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <div align="center" ><br>

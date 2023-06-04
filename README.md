@@ -1,6 +1,6 @@
 ### Hello There, me chamo Lucas Dickmann Schneider
 
-- 🌱 Estou atualmente aprendendo python, game maker e java
+- 🌱 Estou atualmente aprendendo python, game maker, unity, flutter e java
 
 <div>
   <a href="https://github.com/LucasDS0608">
@@ -13,6 +13,7 @@
   <img align="center" height="30" weigth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" height="30" weigth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" height="30" weigth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" height="30" weigth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 </div>
   
 <div align="center" style="padding-top: 10rem"> 
